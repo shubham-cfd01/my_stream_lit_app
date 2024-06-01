@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Simple Calculator")
+st.title("Battery Calculator")
 
 # User inputs
 number1 = st.number_input("Enter first number", value=0.0)
